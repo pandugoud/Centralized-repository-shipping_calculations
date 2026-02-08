@@ -1,20 +1,23 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Simple Interest Calculator
 
-Code Style:
-Maintain a consistent code style for readability.
+This repository contains a simple interest calculator implemented in Python.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Formula
+The formula used is:
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+SI = (P * R * T) / 100
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+Where:
+- P = Principal amount
+- R = Rate of interest per year
+- T = Time in years
 
-Code Review:
-All contributions undergo a code review process.
+## Example
+If you invest $1000 at a rate of 5% per year for 2 years:
 
-Licensing:
-Contributions are licensed.
+SI = (1000 * 5 * 2) / 100 = 100
+
+So, the simple interest earned will be $100.
+
+## How to Run
+1. Clone the repository:https://github.com/pandugoud/Centralized-repository-shipping_calculations.git
